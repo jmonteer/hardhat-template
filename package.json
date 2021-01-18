@@ -1,0 +1,24 @@
+{
+  "name": "hegic-secondary-market",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@chainlink/contracts": "0.0.11",
+    "@nomiclabs/hardhat-ethers": "^2.0.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.0",
+    "@openzeppelin/contracts": "^3.2.0",
+    "chai": "^4.2.0",
+    "dotenv": "^8.2.0",
+    "ethereum-waffle": "^3.2.0",
+    "ethers": "^5.0.19",
+    "hardhat": "^2.0.3",
+    "hardhat-deploy": "^0.7.0-beta.28",
+    "hardhat-gas-reporter": "^1.0.1"
+  }
+}
